@@ -1,0 +1,4 @@
+﻿  lab12-2.skeleton.cpp
+C:\Users\m2sba\Downloads\lab12\lab12-2.skeleton.cpp(23,35): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\m2sba\Downloads\lab12\lab12-2.skeleton.cpp(23,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  220606.vcxproj -> C:\Users\m2sba\source\repos\220606\x64\Debug\220606.exe
